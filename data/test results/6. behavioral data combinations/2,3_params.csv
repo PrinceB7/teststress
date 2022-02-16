@@ -1,0 +1,11 @@
+Participant,booster,colsample_bytree,eta,eval_metric,gamma,max_depth,min_child_weight,objective,subsample,verbosity
+aliceblackwood123@gmail.com,gbtree,1.0,0.05,auc,1.9,3,1,binary:logistic,1.0,0
+azizsambo58@gmail.com,gbtree,0.9,0.3,auc,2.4,2,4,binary:logistic,1.0,0
+jskim@nsl.inha.ac.kr,gbtree,0.8,0.3,auc,0.4,3,4,binary:logistic,0.8,0
+jumabek4044@gmail.com,gbtree,0.9,0.1,auc,0.1,4,5,binary:logistic,1.0,0
+laurentkalpers3@gmail.com,gbtree,1.0,0.3,auc,0.4,6,5,binary:logistic,1.0,0
+mr.khikmatillo@gmail.com,gbtree,0.9,0.3,auc,0.1,9,2,binary:logistic,0.7,0
+nazarov7mu@gmail.com,gbtree,0.7,0.05,auc,0.0,3,4,binary:logistic,1.0,0
+nnarziev@gmail.com,gbtree,0.8,0.3,auc,0.0,9,1,binary:logistic,0.9,0
+nslabinha@gmail.com,gbtree,0.7,0.1,auc,0.0,1,2,binary:logistic,0.7,0
+salman@nsl.inha.ac.kr,gbtree,1.0,0.3,auc,0.1,3,2,binary:logistic,0.8,0
